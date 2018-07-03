@@ -1,5 +1,5 @@
 const express = require('express');
-const bodyPaser = require('body-parser');
+const bodyParser = require('body-parser');
 const session = require('express-session');
 const massive = require('massive');
 const bcrypt = require('bcrypt');
